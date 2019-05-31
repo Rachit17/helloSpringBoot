@@ -3,6 +3,13 @@
 
 # Log file
 *.log
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+target
 
 # BlueJ files
 *.ctxt
